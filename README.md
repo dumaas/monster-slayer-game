@@ -1,5 +1,12 @@
 # Monster Slayer Game
 ![Game Start Screen](project_screenshot.png)
+
+## Tools Used
+- Vue.js
+- JavaScript
+- HTML
+- CSS
+
 ## Attack Methods
 
 ### Basic Attack
