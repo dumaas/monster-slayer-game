@@ -1,4 +1,5 @@
 # Monster Slayer Game
+![Game Start Screen](project_screenshot.png)
 ## Attack Methods
 
 ### Basic Attack
